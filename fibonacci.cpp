@@ -15,9 +15,7 @@ int main() {
 
    //Loop till done
     do {
-      //b = 1 + 0
         b += a;
-      //a = 1 - 0
         a = b - a;
 
       cout << a << "\n";
